@@ -6,6 +6,7 @@ Blauwe slides zonder Kids Unplugged logo -> Slides van Nils, geen officieel Kids
 Gele slides (met Kids Unplugged logo) -> Kids Unplugged slides met bijna geen wijzigingen, zoals aangetroffen als deel van de toolkit: https://www.kidsunplugged.be/nl/toolkit-infoavond
 
 ---
+**Tip:** Rechtermuistoets om bestanden te bewaren op computer.
 
 ## Inhoudstafel
 
