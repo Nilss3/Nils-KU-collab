@@ -2,9 +2,10 @@
 
 Presentatie van Nils Steyaert met de Kids Unplugged slides in verwerkt.
 
-Blauwe slides zonder Kids Unplugged logo -> Slides van Nils, geen officieel Kids Unplugged materiaal of statements
+Waarom 'collab'? Omdat er heel wat meer slides zijn toegevoegd dan de slidedeck van Kids Unplugged eerst had. Er kwamen vragen rond games, AI, cybersecurity en privacy die ik zelf tussen de soep en de patatten heb uitgezocht of samengevat uit parate kennis, maar waarvoor we bij Kids Unplugged voorlopig geen tijd noch mankracht hebben om officieel op te nemen: door meerdere personen te reviewen en op te volgen, de nodige opleidingen te voorzien om er altijd over te praten tijdens infoavonden en dan ook het (politiek?) gevecht aan te gaan op die fronten. Smartphones en social media alleen neemt al meerdere FTE's tijd in beslag… Kids Unplugged is immers onafhankelijk en heeft geen inkomsten, subsidies of donaties.
 
-Gele slides (met Kids Unplugged logo) -> Kids Unplugged slides met bijna geen wijzigingen, zoals aangetroffen als deel van de toolkit: https://www.kidsunplugged.be/nl/toolkit-infoavond
+* Blauwe slides zonder Kids Unplugged logo -> Slides van Nils, geen officieel Kids Unplugged materiaal of statements
+* Gele slides (met Kids Unplugged logo) -> Kids Unplugged slides met bijna geen wijzigingen, zoals aangetroffen als deel van de toolkit: https://www.kidsunplugged.be/nl/toolkit-infoavond
 
 ---
 **Tip:** Rechtermuistoets om bestanden te bewaren op computer.
