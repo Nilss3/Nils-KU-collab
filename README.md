@@ -3,6 +3,7 @@
 Presentatie van Nils Steyaert met de Kids Unplugged slides in verwerkt.
 
 Blauwe slides zonder Kids Unplugged logo -> Slides van Nils, geen officieel Kids Unplugged materiaal of statements
+
 Gele slides (met Kids Unplugged logo) -> Kids Unplugged slides met bijna geen wijzigingen, zoals aangetroffen als deel van de toolkit: https://www.kidsunplugged.be/nl/toolkit-infoavond
 
 ---
