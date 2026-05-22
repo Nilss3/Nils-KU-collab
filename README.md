@@ -16,6 +16,12 @@ Gele slides (met Kids Unplugged logo) -> Kids Unplugged slides met bijna geen wi
 | [presentatie.pptx](presentatie.pptx) · [PDF](presentatie.pdf) | NL | De volledige presentatie voor de infoavond, met slides van Nils (blauw) en Kids Unplugged-materiaal (geel). |
 | [Jeugd en Digitaal Problematisch Gebruik](papers%20%26%20research/jeugd_digitaal_problematisch_gebruik.md) · [EN](papers%20%26%20research/youth_digital_addiction_numbers.md) | NL / EN | Bronnen voor slide 19. Cijfers en onderzoeksoverzicht over problematisch digitaal gebruik bij minderjarigen (onder 18), uitgesplitst per domein: sociale media, gaming, pornografie, AI-chatbots en online gokken. Met bijzondere aandacht voor Belgische cijfers en geslachtsverschillen. |
 
+## Links naar de 'alternatieven'
+
+[Mijn Notion pagina](https://nilsst.notion.site/Toestellen-en-methodes-voor-een-bestaan-vrij-van-smartphone-21bd64f8fac9807f8b50e703fbba5c80) met allerlei alternatieven voor smartphones, kinderen EN volwassenen
+
+[Kids Unplugged blog ](https://www.kidsunplugged.be/blog/)met geselecteerde alternatieven voor kinderen, MET videoreviews starring yours truly.
+
 ## Gerelateerd onderzoek in progress
 
 | Document | Taal | Beschrijving |
