@@ -2,6 +2,7 @@
 
 **A two-track answer — narrow verification for porn and gambling; design regulation, not identity regulation, for social media and games**
 **This paper is an opinion piece and research by Nils and does not reflect any position of Kids Unplugged.**
+**This proposal-in-progress is an alternative to content labelling**
 
 *Geographic scope: European Union · Version 3 — the "red light district / fix the design" thesis · As of May 2026*
 

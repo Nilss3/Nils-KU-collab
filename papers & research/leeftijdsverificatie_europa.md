@@ -2,6 +2,7 @@
 
 **Een tweesporig antwoord — smalle verificatie voor porno en gokken; ontwerpregulering, geen identiteitsregulering, voor sociale media en games**
 **Dit rapport is een opiniestuk en onderzoek van Nils en weerspiegelt geen standpunt van Kids Unplugged.**
+**Dit voorstel-in-de-maak is een alternatief voor content labelling**
 
 *Geografische reikwijdte: Europese Unie · Versie 3 — de stelling 'red light district / fix het ontwerp' · Bijgewerkt tot mei 2026*
 
