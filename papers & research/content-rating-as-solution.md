@@ -2,6 +2,8 @@
 
 ### A simpler way to give parents the control they need
 
+**A personal working document. This is not an official Kids Unplugged viewpoint.**
+
 ---
 ## Introduction
 
