@@ -30,7 +30,7 @@ Age verification, the model governments are rushing toward, does **nothing** for
 
 Instead of making kids prove their age to every app, make **every app, website and platform declare what's inside it**: a clear age rating plus plain content warnings (violence, stranger chat, nudity, gambling-style mechanics, and so on). Not every app or website, of course — the effort applies mostly to big platforms and those whose content could be harmful.
 
-Firstly, this works preferably **per item**, not just per app. Roblox, for example, is millions of games, so the label lives **per game** — and per video, per piece of content. That's already how it works for films and TV. In case this is not possible, the content labels and age ratings doneed to  apply to the whole app or whole platform.
+Firstly, this works preferably **per item**, not just per app. Roblox, for example, is millions of games, so the label lives **per game** — and per video, per piece of content. That's already how it works for films and TV. In case this is not possible, the content labels and age ratings do need to  apply to the whole app or the whole platform.
 
 Secondly, this labelling should be **heavily verified and audited** by relevant institutions. Roblox now tags pornographic or fascist content as 'all ages'. If platforms like Roblox don't change their ways, a blanket label 16+ should be forced upon them. In fact, this is the second way to go about content labelling: **alternatively, let there be an external database of content labels, managed by an authority or institution.**
 
@@ -89,7 +89,7 @@ The deeper problem is what age verification becomes. Once you've built infrastru
 
 ## It's a real workload — but one we're paying for anyway
 
-Labelling everything is a big job, and it has to be **audited by the relevant institutions**, with real penalties for platforms that lie (calling adult content "all ages" to widen their audience).
+Labelling everything is a big job, and it has to be **audited or performed by the relevant institutions**, with real penalties for platforms that lie (calling adult content "all ages" to widen their audience).
 
 But notice: age verification is *also* an enormous workload: building age-check systems, ID infrastructure, age-signal APIs across every operating system and app store. The effort happens either way. The difference is **where it goes**: into surveilling every child, or into honestly labelling content **once**, so everyone benefits forever. It's not a risky overhaul of internet infrastructure just to block social media only.
 
