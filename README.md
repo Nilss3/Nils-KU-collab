@@ -24,3 +24,6 @@ Waarom 'collab'? Omdat er heel wat meer slides zijn toegevoegd dan de slidedeck 
 Update na 27 mei: [Een kleine paragraaf ](https://app.notion.com/p/nilsst/Toestellen-en-methodes-voor-een-bestaan-vrij-van-smartphone-21bd64f8fac9807f8b50e703fbba5c80?source=copy_link#36ed64f8fac9802bb7a2f397d7b7922d)over waar je MP3's kan kopen en muziekspelers die streaming ondersteunen.
 
 [Kids Unplugged blog ](https://www.kidsunplugged.be/blog/)met geselecteerde alternatieven voor kinderen, MET videoreviews starring yours truly.
+
+---
+Mijn persoonlijk privacy and cybersecurity research is verhuisd naar [hier](https://github.com/Nilss3/cybersecurityresearch).
